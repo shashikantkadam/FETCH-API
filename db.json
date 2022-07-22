@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "angular 14",
+      "body": "angular 14 does not support IE",
+      "userId": "5",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
